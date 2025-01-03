@@ -1,6 +1,6 @@
 # File-Sorter
 
-**File-Sorter** is a Python program that automatically organizes files into designated folders on your computer. By detecting the file type based on its extension, the program categorizes the file and moves it to the correct folder (e.g., Documents, Images, Music, etc.).
+**File-Sorter** is a Python program that automatically organizes files into designated folders on your computer. By detecting the file type based on its extension, the program categorizes the file and moves it to the correct folder (e.g., Documents, Images, Music).
 
 ## Features
 - Automatically categorizes files by their extension.
