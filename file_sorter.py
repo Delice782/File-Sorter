@@ -56,6 +56,6 @@ def main():
     # Organize the file
     organize_file(file_path)
 
-# Run the program
+# Test the program
 if __name__ == "__main__":
     main()
