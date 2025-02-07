@@ -1,4 +1,4 @@
- import os
+import os
 import shutil
 
 # Define file type categories and their corresponding folders
